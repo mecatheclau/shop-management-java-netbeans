@@ -17,7 +17,7 @@ This project is a Shop Management System developed in Java using NetBeans IDE. T
 
 - **Java**: Core programming language used for developing the application.
 - **NetBeans IDE**: Integrated development environment used for writing and managing the project.
-- **MySQL**: Database used for storing user and product information (or specify another database if used).
+- **MySQL**: Database used for storing user and product information.
 
 ## Installation and Setup
 
