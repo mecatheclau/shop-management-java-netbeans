@@ -72,8 +72,7 @@ This project is a Shop Management System developed in Java using NetBeans IDE. T
   - Confirm the deletion.
 
 ## Screenshots
-
-![Screenshot from 2024-06-13 17-21-28](https://github.com/mecatheclau/shop-management-java-netbeans/assets/43791985/fe32990f-7073-425b-ab17-bf3518cc9cd2)
+![Screenshot from 2024-06-13 18-14-43](https://github.com/mecatheclau/shop-management-java-netbeans/assets/43791985/8d77e5bc-baa4-4d3e-80d8-19fc8c5f4847)
 ![Screenshot from 2024-06-13 17-21-41](https://github.com/mecatheclau/shop-management-java-netbeans/assets/43791985/e71d4896-487a-4d93-ab9e-9b2b63014979)
 ![Screenshot from 2024-06-13 17-21-58](https://github.com/mecatheclau/shop-management-java-netbeans/assets/43791985/da17e1d2-94e2-4928-8856-f9d7a6e1b0fa)
 ![Screenshot from 2024-06-13 17-22-15](https://github.com/mecatheclau/shop-management-java-netbeans/assets/43791985/5cda1784-8030-4725-a0f4-625151436329)
