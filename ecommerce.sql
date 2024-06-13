@@ -75,9 +75,9 @@ CREATE TABLE `users` (
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
 INSERT INTO `users` VALUES
-(1,'meca','theclau','ma','a','a'),
-(2,'a','a','a','a',NULL),
-(3,'Claude','Maniragaba','mecatheclau','mecatheclau',NULL);
+(1,'Eric','Bonave','bonave','bonave',NULL),
+(2,'John','Doe','john','john',NULL),
+(3,'Steve','Willy','steve','steve',NULL);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
